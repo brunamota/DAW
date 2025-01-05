@@ -23,7 +23,7 @@ TBD
 
 ![iconGitVermelho](https://github.com/user-attachments/assets/d97481fc-c1ef-4c96-a1e4-b99b8a61990a) [Sprints](https://github.com/brunamota/DAW/blob/main/Sprints.md)
 
-![iconGitVermelho](https://github.com/user-attachments/assets/d97481fc-c1ef-4c96-a1e4-b99b8a61990a) [Material de Apoio]
+![iconGitVermelho](https://github.com/user-attachments/assets/d97481fc-c1ef-4c96-a1e4-b99b8a61990a) [Material de Apoio](https://github.com/marcoswagner-commits/aula_daw)
 
 
 
