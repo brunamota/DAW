@@ -1,4 +1,9 @@
+<div align="center">
+
 ![cabecalhoGitDAW](https://github.com/user-attachments/assets/697b5f6c-8005-4717-a13d-d1934fe8f23a)
+
+</div>
+
 ### Ciência da Computação - ICET/UFJ
 ### Docente: Bruna Mota Barbosa
 
