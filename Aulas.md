@@ -4,11 +4,11 @@
 
 </div>
 
-![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 1 - Introdução às Estruturas de Dados Heterogêneas
+![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 1 -
 
-![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 2 - Introdução às Estruturas de Dados Heterogêneas
+![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 2 - 
 
-![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 3 - Análise de Estruturas como structs e classes
+![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 3 - 
 
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 4 - Implementação de uma estrutura de dados heterogênea (ex: lista de contatos)
 
@@ -42,6 +42,6 @@
 
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 19 - Leitura e Escrita de Arquivos em Diferentes Linguagens
 
-![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 20 - Utilização de Manipulação de Arquivos
+![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 20 -
 
-![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 21 - Revisão e práti cas de manipulação de arquivos
+![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Aula 21 - 
