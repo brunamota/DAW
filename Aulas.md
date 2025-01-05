@@ -1,5 +1,6 @@
 <div align="center">
 
-![cabecalhoGitDAW](https://github.com/user-attachments/assets/06527f5f-6b2d-4f4c-bb2b-0aec5957b50d)
+![cabecalhoGitAulas](https://github.com/user-attachments/assets/82181798-e8bb-4d67-96e7-68eca1d87101)
 
 </div>
+
